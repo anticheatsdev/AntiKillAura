@@ -24,8 +24,8 @@ To use AntiKillAura you must use:
 * [Maven](https://maven.apache.org/) - Build system and dependency management
 
 ## Contributors
- - [herobrine99dan](https://github.com/herobrine99dan) (Lead developer of NESS Reloaded)
- - [A248](https://github.com/A248) (Another developer of NESS Reloaded)
+ - [herobrine99dan](https://github.com/herobrine99dan) (Lead developer of AntiKillAura)
+ - [A248](https://github.com/A248) (Another developer of AntiKillAura)
  - [MatuloM](MatuloM#5335 on Discord) (Working on ChestStealerCheck)
  - Islandscout(GCD Utils) (developer of [Hawk](https://github.com/HawkAnticheat/Hawk))
  
