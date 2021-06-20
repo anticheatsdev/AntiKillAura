@@ -17,6 +17,7 @@ To use AntiKillAura you must use:
 
 * Java 8 or later
 * Spigot, Paper, or a fork of either
+* 1.6+ 
 
 ## Built With
 * Bukkit - the well-known plugin API
