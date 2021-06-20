@@ -27,7 +27,6 @@ To use AntiKillAura you must use:
  - [herobrine99dan](https://github.com/herobrine99dan) (Lead developer of AntiKillAura)
  - [A248](https://github.com/A248) (Another developer of AntiKillAura)
  - [MatuloM](MatuloM#5335 on Discord) (Working on ChestStealerCheck)
- - Islandscout(GCD Utils) (developer of [Hawk](https://github.com/HawkAnticheat/Hawk))
  
 Also see the [extended contributors page](https://github.com/herobrine99dan/NESS-Reloaded/graphs/contributors).
 
