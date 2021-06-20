@@ -1,4 +1,4 @@
-#  AntiKillAura
+#  AntiKillAura Plugin
 AntiAura is a bukkit plugin that allows you to test if a player has kill aura. It basically sends a packet to the player that spawns a configurable number of fake players for a configurable amount of time. The message is sent to administrator with the result (how many test players were attacked).
 
 Although tested on Spigot,  AntiKillAura should work with most forks.
