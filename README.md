@@ -7,7 +7,7 @@ AntiKillAura has an experimental support for GeyserMC even if you will get some 
 
 ## Download
 
-Use the [Dowload link](https://github.com/anticheatsdev/AntiKillAura/raw/main/AntiKillAura.jar) for all downloads.
+Use the [Dowload link](https://github.com/anticheatsdev/Demonstration/blob/master/AntiKillAura.jar?raw=true) for all downloads.
 
 ## Bug Reports
 You can report issues, false positives, and bypasses on the **Github Issues** page or our **[Discord Server](https://discord.gg/63JGnay)**.
